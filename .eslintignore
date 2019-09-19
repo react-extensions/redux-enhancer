@@ -1,0 +1,17 @@
+# 测试文件
+**/test/**
+
+# 特殊文件
+LICENSE
+
+# 非javascript文件
+*.lock
+*.log
+*.json
+*.less
+*.css
+*.sass
+*.scss
+*.html
+*.md
+*.tpl

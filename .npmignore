@@ -1,0 +1,13 @@
+node_modules/
+
+# 日志
+*.lock
+package-lock.json
+
+# 配置
+.git
+.gitignore
+.eslintrc
+.eslintignore
+.editorconfig
+.prettierrc
